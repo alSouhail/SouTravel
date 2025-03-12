@@ -61,7 +61,9 @@
               </defs>
             </svg>
 
-            <nuxt-picture src="/images/Social.jpg" alt="instagram" width="45" height="45" />
+            <nuxt-picture
+              src="https://static.vecteezy.com/system/resources/previews/042/127/160/non_2x/instagram-logo-on-circle-style-with-transparent-background-free-png.png"
+              alt="instagram" width="45" height="45" />
 
             <svg width="61" height="61" viewBox="0 0 61 61" fill="none" xmlns="http://www.w3.org/2000/svg">
               <g filter="url(#filter0_d_108_76)">
@@ -89,12 +91,15 @@
           </div>
           <p class="text-[#5E6282]">Discover our app</p>
           <div class="flex items-center justify-center sm:justify-right space-x-3">
-            <nuxt-picture src="/images/GooglePlay.jpg" alt="GooglePlay" width="107" height="35" />
-            <nuxt-picture src="/images/PlayStore.jpg" alt="PlayStore" width="100" height="35" />
+            <nuxt-picture
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Google_Play_2022_logo.svg/1280px-Google_Play_2022_logo.svg.png"
+              alt="GooglePlay" width="107" height="35" />
+            <nuxt-picture src="https://www.proludic.com/wp-content/uploads/2024/03/logo-Apple-Store-Disponible-sur.png"
+              alt="PlayStore" width="100" height="35" />
           </div>
         </div>
       </div>
     </div>
-  
+
   </footer>
 </template>

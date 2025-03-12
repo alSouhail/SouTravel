@@ -12,7 +12,7 @@
       <div class="col-span-5 grid grid-cols-1 sm:grid-cols-5 gap-12">
         <div class="relative col-span-4">
           <div class="relative shadow-xl rounded-xl bg-white">
-            <nuxt-img src="/images/person.jpg" alt="person" class="absolute top-0 -left-4 w-12 h-12 rounded-full" />
+            <nuxt-img src="https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg" alt="person" class="absolute top-0 -left-4 w-12 h-12 rounded-full" />
             <div class="space-y-7 p-10">
               <p class="text-gray-600 text-[#5E6282]">
                 “Thanks to this amazing travel agency, my vacation was seamless and unforgettable! They took care of

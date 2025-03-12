@@ -131,7 +131,7 @@
         </div>
       </div>
       <nuxt-picture
-        src="/images/bookings.jpg"
+        src="https://detailsandswirls.com/cdn/shop/articles/Copy_of_Copy_of_Copy_of_Copy_of_Copy_of_DIY_Bathroom_Tile_Paint_Refinish_1600x.png?v=1608141112"
         alt="bookings"
         class="-mt-16 sm:mt-0"
         width="314"

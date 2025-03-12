@@ -111,9 +111,8 @@ import Header from "./Header.vue";
       </div>
       <div>
         <nuxt-picture
-          src="/images/travel-girl.png"
-          width="765"
-          height="764"
+          src="https://www.pngplay.com/wp-content/uploads/8/City-Travel-PNG-HD-Quality.png"
+        
           alt="travel-girl"
           sizes="sm:100vw md:50vw lg:400px"
         />
